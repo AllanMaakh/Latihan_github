@@ -1,6 +1,6 @@
 Ini baris pertama
 Ini baris kedua
-Ini baris ketiga
 Ini baris keempat
 Ini baris kelima
 Ini baris keenam
+Ini baris ketiga
